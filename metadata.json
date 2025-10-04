@@ -1,0 +1,5 @@
+{
+  "name": "3D Universe Galaxy Simulation",
+  "description": "An interactive 3D universe simulation built with React and Three.js. Explore a fixed set of real galaxies, and click on a galaxy's name to trigger a cinematic warp-speed travel effect to its location.",
+  "requestFramePermissions": []
+}
